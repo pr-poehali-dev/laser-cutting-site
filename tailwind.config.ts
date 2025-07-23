@@ -32,6 +32,13 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				// Laser cutting brand colors
+				laser: {
+					dark: '#2D3748',
+					medium: '#4A5568', 
+					light: '#718096',
+					accent: '#FF6B35'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
